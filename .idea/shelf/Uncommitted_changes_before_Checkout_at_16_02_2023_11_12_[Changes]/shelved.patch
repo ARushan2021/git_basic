@@ -1,0 +1,19 @@
+Index: Potter.txt
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>Harry Potter book\r\nOne The Philosopher's Stone (1997)\r\nTwo The Chamber of Secrets (1998)\r\ntri The Prisoner of Azkaban (1999)\r\nFour The Goblet of Fire (2000)\r\nFive Order of the Phoenix (2003)\r\nSix Half-Blood Prince (2005)\r\nSeven Deathly Hallows (2007)
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/Potter.txt b/Potter.txt
+--- a/Potter.txt	(revision 0b21b6ef84b65a0a7ae3692800cbf27032b8005f)
++++ b/Potter.txt	(date 1676535149371)
+@@ -1,7 +1,7 @@
+ Harry Potter book
+ One The Philosopher's Stone (1997)
+ Two The Chamber of Secrets (1998)
+-tri The Prisoner of Azkaban (1999)
++Three The Prisoner of Azkaban (1999)
+ Four The Goblet of Fire (2000)
+ Five Order of the Phoenix (2003)
+ Six Half-Blood Prince (2005)
